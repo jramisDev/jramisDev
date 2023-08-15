@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Jesús Ramis.
+### Hi there 👋, my name is Jesús Ramis. Do you want to know me?
 
 
 - 🔭 I’m currently working on DxC Technogoly, since 2014, as a Programmer Analyst
